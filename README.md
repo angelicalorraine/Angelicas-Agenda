@@ -6,6 +6,8 @@ Github URL: https://github.com/angelicalorraine/Angelicas-Agenda
 
 ![Schedule.](./assets/daily-sched.png)
 
+![Screenshot](Assets/daily-sched.png)
+
 ## User Story
 
 ```md
